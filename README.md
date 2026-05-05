@@ -1,6 +1,6 @@
 # Hi, I'm Rakosn1cek,
 
-I’m a developer hobbyist and Arch Linux enthusiast. I enjoy building tools that solve my own problems, with a focus on system security, automation, and the "Mend" philosophy. Creating software that is distro-agnostic, self-healing, and transparent.
+I’m a developer hobbyist and Arch Linux enthusiast. I enjoy building tools that solve my own problems, with a focus on system security, automation, and the "KISS" philosophy. Creating software that is distro-agnostic, self-healing, and transparent.
 
 ---
 
@@ -14,26 +14,39 @@ I’m a developer hobbyist and Arch Linux enthusiast. I enjoy building tools tha
 
 ---
 
-### My Developer Stats
+### I’m currently working on
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakosn1cek&show_icons=true&theme=tokyonight&hide_border=true" alt="Rakosn1cek GitHub Stats" />
-</p>
+I am currently working on Oversight.
+A terminal-based security intelligence tool designed to audit shell scripts and commands before they touch your system. It bridges the gap between "blind trust" and "manual auditing" by providing a high-speed, interactive analysis of both local files and remote scripts via Raw URLs.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakosn1cek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+---
+
+### Facts About Me:
+
+- Building tools that being dismissed by the gatekeeping community as not needed, because they are easier and faster to use than reading the wiki for hours to find a solution.
+- Totaly against: If you didn't spend hours fixing your system, you did not earned it!
+- I will not argue with you if you have nothing constructive to say.
 
 ---
 
 ### My Stack
 
 - **OS:** Arch Linux (Mainline)
+- **WM:** Hyprland
 - **Editor:** Micro
 - **Shell:** Zsh
 - **Focus:** Security, CLI Tooling, and System Architecture
 
 > "If it’s broken, Mend it. If it’s risky, Oversight it. If you can't remember it, use XC"
+
+---
+
+### How to reach me:
+
+- GitHub: messages
+- Email: rakosn1cek@zohomail.eu
+- Discord: [Here](https://discord.gg/9TWdVYz4rH)
+
 
 <!--
 **Rakosn1cek/Rakosn1cek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
