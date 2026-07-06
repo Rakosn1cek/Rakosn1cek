@@ -18,6 +18,10 @@ I’m a developer hobbyist and Arch Linux enthusiast. I enjoy building tools tha
 
 I am currently working on Oversight.
 A terminal-based security intelligence tool designed to audit shell scripts and commands before they touch your system. It bridges the gap between "blind trust" and "manual auditing" by providing a high-speed, interactive analysis of both local files and remote scripts via Raw URLs.
+AND
+Mise - Light weight web browser specifically designed for low end fanless laptops as i do own and use one on a daily basis. 
+This is by far the hardest personal project I have started and sometimes it seems I am running in circles. Fixing one thing breaks another. 
+But it is fun project to learn from.
 
 ---
 
