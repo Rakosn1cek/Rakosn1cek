@@ -11,7 +11,7 @@ I’m a developer hobbyist and Arch Linux enthusiast. I enjoy building tools tha
 | **[Oversight](https://github.com/Rakosn1cek/oversight)** | A TUI security auditor that intercepts risky commands and audits remote scripts in volatile memory. | `Rust` `Zsh` `Ratatui` |
 | **[Mend](https://github.com/Rakosn1cek/mend)** | A modular, lazy-loaded recovery tool for Linux. Instead of manually searching wikis when a command fails, Mend uses fzf to resolve package conflicts, map missing libraries, and clear database locks across Arch, Fedora, openSUSE, and Debian-based systems. | `zsh` `fzf` |
 | **[XC](https://github.com/Rakosn1cek/xc-manager)** | A lightweight, Zsh-native vault for command execution with GPG encryption, interactive templates, and fzf integration. |  `Zsh` `fzf` |
-| **[Mise](https://github.com/Rakosn1cek/Mise-browser)** | A lightweight web browser with Sidebar, Tabs and Workspaces. | `Electron`, `Chromium` | 
+| **[Mise-browser](https://github.com/Rakosn1cek/Mise-browser)** | A lightweight web browser with Sidebar, Tabs and Workspaces. | `Electron`, `Chromium` | 
 
 ---
 
