@@ -24,7 +24,7 @@ AND
 
 **Mise** - Lightweight web browser specifically designed for low end fanless laptops as i do own and use one on a daily basis. 
 This is by far the hardest personal project I have started and sometimes it seems I am running in circles. Fixing one thing breaks another. 
-But it is fun project to learn from. This strictly kept private due to previous code has been stolen and reproduced as someone elses. If you would like to give it a try or contribute, contact me directly via GitHub.
+But it is fun project to learn from. This was strictly kept private due to previous code has been stolen and reproduced as someone elses. If you would like to give it a try or contribute, please feel free as it is now available for everyone.
 
 ---
 
@@ -43,6 +43,7 @@ But it is fun project to learn from. This strictly kept private due to previous 
 - **Editor:** Micro
 - **Shell:** Zsh
 - **Focus:** Security, CLI Tooling, and System Architecture
+- **Browser:** Mise
 
 > "If it’s broken, Mend it. If it’s risky, Oversight it. If you can't remember it, use XC"
 
