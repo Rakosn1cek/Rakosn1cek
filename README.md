@@ -22,7 +22,7 @@ A terminal-based security intelligence tool designed to audit shell scripts and 
 
 AND
 
-**Mise** - Lightweight web browser specifically designed for low end fanless laptops as i do own and use one on a daily basis. 
+**Mise** - An efficient, keyboard-first Linux browser with container-isolated workspaces and mouse-free navigation for resource-conscious systems. 
 This is by far the hardest personal project I have started and sometimes it seems I am running in circles. Fixing one thing breaks another. 
 But it is fun project to learn from. This was strictly kept private due to previous code has been stolen and reproduced as someone elses. If you would like to give it a try or contribute, please feel free as it is now available for everyone.
 
